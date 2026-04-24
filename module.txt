@@ -9,3 +9,4 @@ pip install pyaudio
 pip install pygame
 pip install winotify
 pip install pynput
+pip install ffpyplayer 
