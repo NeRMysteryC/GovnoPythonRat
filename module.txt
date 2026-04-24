@@ -1,0 +1,11 @@
+please install:
+pip install opencv-python
+pip install pyTelegramBotAPI
+pip install pillow
+pip install numpy
+pip install pyautogui
+pip install tkinter
+pip install pyaudio
+pip install pygame
+pip install winotify
+pip install pynput
